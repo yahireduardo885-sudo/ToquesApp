@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+id challengeTextView
+id feedbackView
+id instructionsTextView
+id quadrant1TextView
+id quadrant2TextView
+id quadrant3TextView
+id quadrant4TextView
+id scoreTextView
+id startButton
+layout activity_main

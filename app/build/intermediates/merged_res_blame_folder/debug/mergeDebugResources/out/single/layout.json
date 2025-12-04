@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\OEM User\\.gradle\\daemon\\9.0-milestone-1\\com.example.touchgame.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\OEM User\\.gradle\\daemon\\9.0-milestone-1\\com.example.touchgame.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.touchgame.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.touchgame.app-main-33:/layout/activity_main.xml"
+    }
+]
